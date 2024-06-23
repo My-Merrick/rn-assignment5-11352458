@@ -14,8 +14,8 @@ MyFinanceApp is a mobile application designed to help users manage their finance
 
 ## Screenshots
 ### Home Screen
-![Home Screen Light](./assets/home1.png)
-![Home Screen Dark](./assets/home2.png)
+![Home Screen Light](./assets/home1.png.jpg)
+![Home Screen Dark](./assets/home2.jpg)
 
 ### Settings Screen
-![Settings Screen Light](./assets/settings.png)
+![Settings Screen Light](./assets/settings.jpg)
